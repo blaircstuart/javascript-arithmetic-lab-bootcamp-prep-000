@@ -37,11 +37,3 @@ function dec(a){
    return a
 }
 
-function makeInt(n){
- return parseInt('n' , 10)
-}
-
-function preserveDecimal(c){
-  return parseFloat('2.222')
-   
-}

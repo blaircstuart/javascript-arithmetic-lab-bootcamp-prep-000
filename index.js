@@ -24,6 +24,12 @@ function int(a){
 function dec(a){
   return a--
 }
+
+function makeInt(n){
+  parseInt(n)
+  return n
+}
+
 function makeInt(n){
   parseInt(n)
   return n

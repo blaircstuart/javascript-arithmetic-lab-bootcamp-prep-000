@@ -25,12 +25,12 @@ function dec(a){
   return a--
 }
 
-function makeInt(n , 10){
-  parseInt(n)
-  return n
+function makeInt(a, 10){
+  parseInt(a)
+  return a
 }
 
-function makeInt(n){
-  parseInt(n)
-  return n
+function makeInt(a){
+  parseFloat(a)
+  return a
 }

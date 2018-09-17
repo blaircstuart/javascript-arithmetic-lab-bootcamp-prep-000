@@ -42,6 +42,7 @@ function makeInt(n){
   return n
 }
 
-function preserveDecimal(){
-  parseFloat('2.222')
+function preserveDecimal(n){
+  parseFloat('n')
+  return n 
 }

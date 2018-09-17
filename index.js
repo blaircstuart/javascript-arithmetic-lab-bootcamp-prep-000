@@ -37,16 +37,11 @@ function dec(a){
    return a
 }
 
- var a = Math.floor(Math.random() * 1000)
- var b = Math.floor(Math.random() * 1000)
 function makeInt(a){
   parseInt('a' , 10)
   return a
 }
 
- var a = Math.floor(Math.random() * 1000)
- var b = Math.floor(Math.random() * 1000)
-function preserveDecimal(a){
-  parseFloat('a')
-  return a
+function preserveDecimal(2.222){
+  parseFloat('2.222')
 }

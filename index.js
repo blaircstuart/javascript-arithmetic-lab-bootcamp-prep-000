@@ -38,13 +38,13 @@ function dec(a){
  var a = Math.floor(Math.random() * 1000)
  var b = Math.floor(Math.random() * 1000)
 function makeInt(a){
-  parseInt(a)
+  parseInt('a')
   return a
 }
 
  var a = Math.floor(Math.random() * 1000)
  var b = Math.floor(Math.random() * 1000)
 function preserveDecimal(a){
-  parseFloat(a)
+  parseFloat('a')
   return a
 }

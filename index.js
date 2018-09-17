@@ -25,7 +25,7 @@ function dec(a){
   return a--
 }
 
-function makeInt(a){
+function makeInt(a, 10){
   parseInt(a)
   return a
 }
